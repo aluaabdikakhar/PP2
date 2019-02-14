@@ -1,0 +1,5 @@
+/Users/apple/Desktop/PP2/Week2/Week2/bin/Debug/Week2.exe
+/Users/apple/Desktop/PP2/Week2/Week2/bin/Debug/Week2.pdb
+/Users/apple/Desktop/PP2/Week2/Week2/obj/x86/Debug/Task1.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/PP2/Week2/Week2/obj/x86/Debug/Week2.exe
+/Users/apple/Desktop/PP2/Week2/Week2/obj/x86/Debug/Week2.pdb

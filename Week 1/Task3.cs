@@ -7,7 +7,7 @@ namespace cs
         public static void Main(string[] args)
         {
             int n;
-            n = Convert.ToInt32(Console.ReadLine());
+            n = Convert.ToInt32(Console.ReadLine());//вводм 
 
             string[] array = Console.ReadLine().Split();
             for (int i = 0; i < n; i++) {
