@@ -8,9 +8,9 @@ namespace Task1
         public static void Main(string[] args)
         {
             string text = File.ReadAllText("/Users/apple/Desktop/input.txt");
-            char[] txet = text.ToCharArray();
-            Array.Reverse(txet);
-            string s = new string(txet);
+            char[] text2 = text.ToCharArray();
+            Array.Reverse(text2);
+            string s = new string(text2);
             if (s == text)
                 Console.WriteLine("YES");
             else
